@@ -1,7 +1,7 @@
 # TMMP (Transformed mixed model prediction of general finite population parameters)
 This package implements transformed mixed model prediction of general finite population parameters, as proposed by the following papers.
 
-Sugasawa, S. and Kubokawa, T.  (2019). Adaptively transformed mixed model prediction of general finite population parameters. *Scandinavian Journal of Statistics* 46, 1025--1046. https://doi.org/10.1111/sjos.12380  https://arxiv.org/abs/1705.04136
+Sugasawa, S. and Kubokawa, T.  (2019). Adaptively transformed mixed model prediction of general finite population parameters. *Scandinavian Journal of Statistics* 46, 1025--1046. (https://doi.org/10.1111/sjos.12380)  (https://arxiv.org/abs/1705.04136)
 
 Functions are implemented in `TMMP-function.R` available in the repository.
 ```{r}
